@@ -7,3 +7,5 @@
 ## Server
 
 [zipgetd](cmd/zipgetd/README.md)
+
+Тест in-line комментариев — можно удалить
